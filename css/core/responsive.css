@@ -1564,8 +1564,7 @@
 	.one-third_bg.team_photo {
 		padding-bottom: 0!important;
 	}
-	#page-content-wrapper .inner .sidebar-content.fullwidth img,
-	.page-content-wrapper img {
+	#page-content-wrapper .inner img, .page-content-wrapper img{
 		max-width: 100%;
 		height: auto;
 	}
