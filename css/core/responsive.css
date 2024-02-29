@@ -1080,7 +1080,7 @@
 	}
 	#page-content-wrapper .inner .sidebar-content.fullwidth img {
 		max-width: 100% !important;
-		height: auto !important;
+		height: auto;
 	}
 	#page-content-wrapper .inner .sidebar-wrapper {
 		width: 100%;
